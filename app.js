@@ -1,4 +1,5 @@
 /* small js problems and concepts */
+// shift + alt + A for multiline comments
 // 1 
 // console.log(String.raw`Hello\njavascript`)
 // String.raw js k aik built-in-method hy ic mai jaise string likhe hy vyse he show hoti hy 
@@ -69,3 +70,4 @@ and next typeof checks typeof number that answer is string
 console.log(typeof typeof 'h')
 ans = string
 */
+
